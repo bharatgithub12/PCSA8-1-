@@ -2,7 +2,7 @@
 public class Bharat {
 
 	public static void main(String[] args) {
-		System.out.println(" Bhosale ");
+		System.out.println("bharat ");
 	}
 
 }
